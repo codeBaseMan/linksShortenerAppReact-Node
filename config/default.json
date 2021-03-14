@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "konstantin mern project",
+    "mongoUri": "mongodb+srv://konstantin:gfuture2015@cluster0.6hewm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
